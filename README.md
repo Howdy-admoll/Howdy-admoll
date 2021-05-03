@@ -14,7 +14,7 @@
 
 <p align="center">I’m interested in internship opportunities in Software Engineering, Fullstack Web Development, Data Analysis and Cloud Engineering.<br>
   
-<h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
+<h4 align="center">Show some <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/kiss-emoji-16.gif" width="30px"> by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 <h5 align="center"><a href="https://github.com/Howdy-admoll/Howdy-admoll/discussions">Ask Me Anything (AMA)</a></h5>
 </p>
 
