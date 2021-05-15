@@ -1,5 +1,5 @@
 <h1 align="center"> <a href ="https://arhesus.trumpeterstv.com/">Adefemi A. Ademola</a></h1>
-<p align="center">Programmer | Web Developer | Freelancer | Trainer | Facilitator</p>
+<p align="center">Programmer | mobile-Web Developer | Freelancer | Trainer | Facilitator</p>
 <h2 align="center"> Languages & Tools </h2>
 <p align="center">Profficient & Advancing 📈</p>
 <p align="center">
