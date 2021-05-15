@@ -10,9 +10,9 @@
 
 <p align="center">I am a team player, dedicated, and open-minded. I get across to people and adjust to changes with ease. Provide me with that ☕💻🔋🎧 then let's solve the problem. Professionally, I am very passionate about applications of Web Application Development, and I'm currently learning <code> Machine Learning</code> and <code>Cloud "AWS:AZURE:GCP"</code></p>
 
-<p align="center">Since then, I have worked on tons of personal and organizational programming projects. Most of them are based on Python and it is my favorite language.</p>
+<p align="center">Since then, I have worked on personal and organizational programming projects.</p>
 
-<p align="center">I’m interested in internship opportunities in Software Engineering, Fullstack Web Development, Data Analysis and Cloud Engineering.<br>
+<p align="center">I’m interested in internship opportunities in Software Engineering, Fullstack Web Development, and Cloud Engineering.<br>
   
 <h4 align="center">Show some <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/kiss-emoji-16.gif" width="30px"> by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 <h5 align="center"><a href="https://github.com/Howdy-admoll/Howdy-admoll/discussions">Ask Me Anything (AMA)</a></h5>
