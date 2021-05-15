@@ -8,7 +8,7 @@
 
 <p align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am currently studying at Ekiti State University.</p>
 
-<p align="center">I am a team player, dedicated, and open-minded. I get across to people and adjust to changes with ease. Provide me with that ☕💻🔋🎧 then let's solve the problem. Professionally, I am very passionate about applications of Web Application Development, and I'm currently learning <code> Machine Learning</code> and <code>Cloud "AWS:AZURE:GCP"</code></p>
+<p align="center">I am a team player, dedicated, and open-minded. I get across to people and adjust to changes with ease. Provide me with that ☕💻🔋🎧 then let's solve the problem. Professionally, I am very passionate about applications of Web Application Development, and I'm currently learning <code>Cloud "AWS:GCP"</code>and I have eyes on <code> Machine Learning</code></p>
 
 <p align="center">Since then, I have worked on personal and organizational programming projects.</p>
 
