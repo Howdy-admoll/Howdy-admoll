@@ -19,7 +19,7 @@ SRE on the Card Payment team at **[Moniepoint](https://moniepoint.com)** — one
 
 Founder of **[RiskSense](https://admoll.dev)** under the Arhesus brand — an AI-driven credit risk scoring engine built for African fintech, combining fuzzy inference systems with alternative data to extend credit access to underserved markets.
 
-Postgraduate researcher in **Advanced Artificial Intelligence** at the University of Portsmouth, with published work comparing Mamdani and Sugeno FIS applied to credit scoring in emerging markets.
+Independent Researcher in Advanced Artificial Intelligence, with published work comparing Mamdani and Sugeno FIS applied to credit scoring in emerging markets **[Fuzzy Logic Based Credit Risk Scoring in Fintech Lending: A Comparative Study of Mamdani and Sugeno Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6637080)**.
 
 ---
 
