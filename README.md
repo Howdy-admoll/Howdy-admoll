@@ -37,7 +37,7 @@ Fintech Systems           →  MySQL, logical terminal databases, PTSP migration
 ### Tech Stack
 
 **Infrastructure & DevOps**
-`Ansible` `Linux` `MySQL` `Git` `Bash` `Python`
+`Ansible` `Kubernetes` `Terraform` `GCP` `Rundeck` `Linux` `Git` `Bash` `...`
 
 **Languages**
 `Python` `JavaScript` `SQL` `PHP`
