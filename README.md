@@ -24,6 +24,7 @@ SRE at **[Moniepoint](https://moniepoint.com)** (Africa's leading fintech unicor
 - **[risksense-core](https://github.com/Howdy-admoll)** — AI credit engine redefining lending in emerging markets
 - **[fintech-sre-playbooks](https://github.com/Howdy-admoll)** — Proven payment infrastructure automation
 - **[fis-credit-research](https://github.com/Howdy-admoll)** — IEEE-published research: Mamdani vs Sugeno FIS
+- *Most recent work is in private organization repositories*
 
 ---
 <p align="center">
